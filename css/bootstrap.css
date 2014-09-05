@@ -1186,7 +1186,7 @@ a.bg-primary:hover {
   background-color: #DB3438;
 }
 a.bg-success:hover {
-  background-color: #128f76;
+  background-color: #bb2125;
 }
 .bg-info {
   background-color: #3498db;
@@ -2852,8 +2852,8 @@ fieldset[disabled] .btn-primary.active {
 .btn-success.active,
 .open > .dropdown-toggle.btn-success {
   color: #ffffff;
-  background-color: #128f76;
-  border-color: #11866f;
+  background-color: #bb2125;
+  border-color: #b22023;
 }
 .btn-success:active,
 .btn-success.active,
@@ -4209,11 +4209,11 @@ fieldset[disabled] .navbar-default .btn-link:focus {
   background-color: transparent;
 }
 .navbar-inverse .navbar-toggle {
-  border-color: #128f76;
+  border-color: #bb2125;
 }
 .navbar-inverse .navbar-toggle:hover,
 .navbar-inverse .navbar-toggle:focus {
-  background-color: #128f76;
+  background-color: #bb2125;
 }
 .navbar-inverse .navbar-toggle .icon-bar {
   background-color: #ffffff;
@@ -4468,7 +4468,7 @@ a.label:focus {
 }
 .label-success[href]:hover,
 .label-success[href]:focus {
-  background-color: #128f76;
+  background-color: #bb2125;
 }
 .label-info {
   background-color: #3498db;
